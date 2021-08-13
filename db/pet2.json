@@ -1,0 +1,18 @@
+{
+  "id": 1956022304,
+  "category": {
+    "id": 1,
+    "name": "cachorro"
+  },
+  "name": "Vida",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "sta"
+    }
+  ],
+  "status": "sold"
+}
